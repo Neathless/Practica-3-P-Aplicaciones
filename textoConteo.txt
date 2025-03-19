@@ -1,0 +1,13 @@
+Hoy en día, Java es uno de los lenguajes de programación más populares y solicitados del mundo, con más de 7 millones de desarrolladores de Java y miles de personas aprendiendo Java en línea (en plataformas como CodeGym y de otras formas) cada año porque Java se usa universalmente en todo el mundo. industrias y para una variedad de propósitos comerciales. Como puede que sepa o no, Java tiene una larga historia (de hecho, casi tres décadas). Nacido a principios de la década de 1990 como Project Oak, originalmente Java fue diseñado para convertirse en un lenguaje de programación de nicho destinado a ser utilizado en la industria de la televisión digital por cable para programar dispositivos digitales como decodificadores y televisores inteligentes. Se necesitaron años y múltiples cambios para llevar a Java a donde está ahora. Como dice el refrán, vuelve a la raíz y encontrarás el significado. Historia de Java.  Una historia completa del desarrollo de Java, de 1991 a 2021 - 1Sabiendo que la mayoría de las personas que aprenden Java e incluso los desarrolladores profesionales de Java generalmente 
+carecen del conocimiento de cómo se desarrolló y evolucionó Java a lo largo del tiempo, pensamos que sería una buena idea explorar la 
+historia de Java con más detalle. 
+Java: las raíces Java nació en junio de 1991 como un proyecto llamado "Oak" bajo el desarrollo de 
+un pequeño equipo de ingenieros que trabajaban para Sun Microsystems. Se hacían llamar el Equipo Verde: James Gosling, Mike Sheridan 
+y Patrick Naughton. Y se eligió la palabra "roble" para nombrar la nueva tecnología porque el roble es un 
+símbolo de fuerza y ​​durabilidad. El tiempo ha demostrado que este nombre terminó siendo muy apropiado e incluso profético a pesar de 
+que se cambió a Java en 1995 debido a que Oak ya estaba registrado como parte de otra marca. James Gosling era el jefe del proyecto, y 
+su objetivo original era crear un lenguaje de programación orientado a objetos que pudiera implementar una máquina virtual y que fuera 
+más simple y universal que C/C++, pero al mismo tiempo tendría una sintaxis similar a C/C++ para que sea fácil de aprender y usar por 
+parte de los programadores actuales que están bien familiarizados con la notación C. El nuevo lenguaje de programación se diseñó 
+originalmente principalmente para la industria de la televisión digital por cable, para programar la nueva generación de televisores con 
+funciones inteligentes y varios dispositivos decodificadores. 
